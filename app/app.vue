@@ -98,7 +98,7 @@
         <p class="text-xl mb-8">
           Fale diretamente com nossa equipe e garanta sua vaga nas próximas imersões.
         </p>
-        <a href="https://wa.me/seunumerodecontato" target="_blank" class="inline-block px-8 py-2 text-sm font-bold bg-green-500 text-white rounded-full 
+        <a href="https://wa.me/+5528999375057" target="_blank" class="inline-block px-8 py-2 text-sm font-bold bg-green-500 text-white rounded-full 
                                   shadow-xl hover:bg-green-600 transform hover:scale-105 transition duration-300 ease-in-out">
           FALE AGORA PELO WHATSAPP
         </a>
