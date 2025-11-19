@@ -23,7 +23,7 @@
 
         <!-- Links Direita (Botão de Contato) -->
         <div class="flex space-x-6">
-          <a href="#contato" style="background-color: #467191; font-size: 12px;" class="px-5 py-2 text-white rounded-full hover:opacity-90 transition duration-300 shadow-md font-medium">Fale Conosco</a>
+          <a href="#contato" style="background-color: #467191; font-size: 12px;" class="px-2 py-2 text-white rounded-full hover:opacity-90 transition duration-300 shadow-md font-medium">Fale Conosco</a>
         </div>
       </nav>
     </header>
